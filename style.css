@@ -1,0 +1,12 @@
+li {
+    cursor: pointer;
+}
+
+.bold {
+   font-weight: bold;
+}
+
+.gris {
+    color: grey;
+}
+
